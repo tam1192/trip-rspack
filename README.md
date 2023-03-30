@@ -1,5 +1,5 @@
 # TripMC専用テクスチャ
-![trip](https://github.com/tam1192/ADWMC_RSPACK/blob/main/pack.png)
+![trip](https://github.com/tam1192/trip_texture/blob/main/pack.png)
 
 tripMCサーバー専用テクスチャです。　tripサーバー以外でも利用でき、自由に再配布等行えます。
 tripMCのID割当については、tripperを参考にしてください。
